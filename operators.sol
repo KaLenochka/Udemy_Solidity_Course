@@ -76,7 +76,8 @@ contract FinalExercise {
     function finalize() public view returns(uint) {
         uint d = 23;
         if(a >= a && b < f) {
-            d *= d - b;
+            d *= d;
+            return d -b;
         }
         return d;
     }
