@@ -77,7 +77,7 @@ contract FinalExercise {
         uint d = 23;
         if(a >= a && b < f) {
             d *= d;
-            return d -b;
+            return d - b;
         }
         return d;
     }
